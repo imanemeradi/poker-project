@@ -4,6 +4,7 @@ import java.util.Random;
 import java.util.stream.Collectors;
 import java.util.Arrays;
 
+
 public class ClosedPoker {
     public static void main(String ...args){
         Joueur p1 = new Joueur("Nicolas");
@@ -42,9 +43,6 @@ public class ClosedPoker {
         }
     }
 
-    bip
-
-
-
 
 }
+
